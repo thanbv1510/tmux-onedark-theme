@@ -1,6 +1,8 @@
 # tmux-onedark-theme
 My Tmux One Dark theme
 
+![Status bar](img/status-bar.png)
+
 ## Install
 ### Tmux Plugin Manager
 Add plugin to the list of TPM plugins:
